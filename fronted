@@ -1,0 +1,7 @@
+- project-root
+  - frontend
+    - public
+      - css
+      - js
+      - images
+    - views
